@@ -42,9 +42,9 @@ Java application with GUI interacting with MySQL database.
 <img src="https://github.com/netlams/rdbms-trucktable/blob/master/ScreenShots/1.default.jpg" alt="Default"></p>
 <p>Record Selection:
 <img src="https://github.com/netlams/rdbms-trucktable/blob/master/ScreenShots/2.selection.jpg" alt="Record Selection"></p>
-View a record:
-<img src="https://github.com/netlams/rdbms-trucktable/blob/master/ScreenShots/3.view.jpg" alt="Record View">
-Update a record:
-<img src="https://github.com/netlams/rdbms-trucktable/blob/master/ScreenShots/4.update.jpg" alt="Record Update">
-SQL Table:
-<img src="https://github.com/netlams/rdbms-trucktable/blob/master/ScreenShots/7.sqltable.jpg" alt="sql table">
+<p>View a record:
+<img src="https://github.com/netlams/rdbms-trucktable/blob/master/ScreenShots/3.view.jpg" alt="Record View"></p>
+<p>Update a record:
+<img src="https://github.com/netlams/rdbms-trucktable/blob/master/ScreenShots/4.update.jpg" alt="Record Update"></p>
+<p>SQL Table:
+<img src="https://github.com/netlams/rdbms-trucktable/blob/master/ScreenShots/7.sqltable.jpg" alt="sql table" width="400" height="300"></p>
