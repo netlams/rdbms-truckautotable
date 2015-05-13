@@ -38,8 +38,8 @@ Java application with GUI interacting with MySQL database.
  3.	When the GUI is running, enter the VIN# into the input box and press a button on the left side. Follow and enter any prompts when prompted. 
 
 <h2>Screen shots:</h2>
-<img src="" alt="Default">
-<img src="" alt="Record Selection">
-<img src="" alt="Record View">
-<img src="" alt="Record Update">
-<img src="" alt="sql table">
+<img src="https://github.com/netlams/rdbms-trucktable/blob/master/ScreenShots/1.default.jpg" alt="Default">
+<img src="https://github.com/netlams/rdbms-trucktable/blob/master/ScreenShots/2.selection.jpg" alt="Record Selection">
+<img src="https://github.com/netlams/rdbms-trucktable/blob/master/ScreenShots/3.view.jpg" alt="Record View">
+<img src="https://github.com/netlams/rdbms-trucktable/blob/master/ScreenShots/4.update.jpg" alt="Record Update">
+<img src="https://github.com/netlams/rdbms-trucktable/blob/master/ScreenShots/7.sqltable.jpg" alt="sql table">
