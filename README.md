@@ -1,4 +1,4 @@
-# rdbms-trucktable
+# rdbms-truckautotable
 Java application with GUI interacting with MySQL database. 
 
 <h2>Language written in:</h2>
